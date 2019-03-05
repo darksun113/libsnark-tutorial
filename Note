@@ -1,0 +1,6 @@
+#For Mac OS
+
+    brew install openssl
+    export LIBRARY_PATH="/usr/local/Cellar/openssl/your_version/lib/"
+    brew install gmp
+    brew link gmp
